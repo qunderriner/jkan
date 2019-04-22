@@ -45,7 +45,7 @@
 - name: Transportation
   logo: /img/categories/transportation.svg
   logo_credit: Dmitry Baranovskiy from the Noun Project
-  featured: true
+  featured: false
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
   logo_credit: Edward Boatman from the Noun Project
