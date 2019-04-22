@@ -21,7 +21,7 @@ navigation:
   - title: Organizations
     url: /organizations/
 
-Collections
+#Collections
 collections:
   datasets:
     output: true
@@ -30,7 +30,7 @@ collections:
     output: true
     permalink: /organizations/:path/
 
-Collections (cont'd)
+#Collections (cont'd)
 defaults:
   - scope:
       path: ""
