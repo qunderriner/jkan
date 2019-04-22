@@ -1,6 +1,6 @@
 title: JKAN
-greeting: Welcome to JKAN
-description: Welcome to Quinn and James' Fun Data Place.
+greeting: Welcome to Quinn and James' Fun Data Place.
+description: This site hosts eviction data from California, Illinois, and New York. 
 baseurl: /jkan
 logo: /img/jkan.png
 
@@ -22,28 +22,28 @@ navigation:
     url: /organizations/
 
 # Collections
-collections:
-  datasets:
-    output: true
-    permalink: /datasets/:path/
-  organizations:
-    output: true
-    permalink: /organizations/:path/
+# collections:
+#   datasets:
+#     output: true
+#     permalink: /datasets/:path/
+#   organizations:
+#     output: true
+#     permalink: /organizations/:path/
 
 # Collections (cont'd)
-defaults:
-  - scope:
-      path: ""
-      type: datasets
-    values:
-      layout: dataset
-      category: Uncategorized
-      organization: N/A
-  - scope:
-      path: ""
-      type: organizations
-    values:
-      layout: organization
+# defaults:
+#   - scope:
+#       path: ""
+#       type: datasets
+#     values:
+#       layout: dataset
+#       category: Uncategorized
+#       organization: N/A
+#   - scope:
+#       path: ""
+#       type: organizations
+#     values:
+#       layout: organization
 
 # Markdown settings
 markdown: kramdown
