@@ -9,7 +9,7 @@ resources:
     format: csv
 
 category:
-  - Evictions
+  - Economy
 maintainer: Tim Wisniewski
 maintainer_email: tim@timwis.com
 ---
