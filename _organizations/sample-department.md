@@ -1,5 +1,5 @@
 ---
-title: Sample Department
-description: This is an example department provided with a new installation of JKAN
-logo: http://i.imgur.com/mrC5xVT.png
+title: Computational Analysis and Public Policy 
+description: This department applies big data to big problems
+logo: https://en.wikipedia.org/wiki/University_of_Chicago#/media/File:University_of_Chicago_shield.svg
 ---
