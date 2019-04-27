@@ -20,8 +20,6 @@ navigation:
     url: /datasets/
   - title: Organizations
     url: /organizations/
-  - title: Knowledge
-    url: http://twooter.biz/gifs/knowledge.jpg
 
 #Collections
 collections:
