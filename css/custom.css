@@ -3,10 +3,12 @@ body {
   background-image: url("../img/eviction_rate_year.png")
 }
 
-.jumbotron {
-	background-color: #fffff;
+.theme-gallery {
+  text-align: center;
 }
 
-.homepage-categories {
-	background-color: #ffffff;
-}	
+.thumbnail {
+    margin: 0 100px;
+}
+
+	
