@@ -17,5 +17,7 @@ resources:
 category:
   - Economy
   - Real Estate / Land Records
+maintainer: Eviction Lab 
+maintainer_email: research@evictionlab.org
 ---
 
