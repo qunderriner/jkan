@@ -3,6 +3,7 @@ body {
   background-image: url("../img/eviction_rate_year.png")
 }
 
+.homepage-categories,
 .theme-gallery {
   text-align: center;
 }
