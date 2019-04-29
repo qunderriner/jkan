@@ -1,5 +1,4 @@
-body-homepg {
-  background-color: white;
+.homepage body {
   background-image: url("../img/juxt.png");
   background-repeat: no-repeat;
   background-size: auto;
@@ -18,6 +17,7 @@ body-homepg {
 
 .jumbotron{
 	border-radius: 50px;
+	background-color: white;
 }
 
 h3 {
