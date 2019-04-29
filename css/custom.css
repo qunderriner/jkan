@@ -20,13 +20,13 @@ h3 {
   background-color: white;
   border-radius: 50px;
   padding: 35px;
-  border-style: outset;
+  border-style: none;
   color: black;
   text-transform: uppercase;
 }
 
 a {
-    color: blue;
+    color: black;
     text-transform: uppercase;
 }
 	
