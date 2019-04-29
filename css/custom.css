@@ -1,6 +1,8 @@
 body {
   background-color: white;
-  background-image: url("../img/eviction_rate_year.png")
+  background-image: url("../img/juxt.png");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 .homepage-categories,
