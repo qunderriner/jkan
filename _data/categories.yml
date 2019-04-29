@@ -8,7 +8,7 @@
 - name: Economy
   logo: /img/categories/economy.svg
   logo_credit: Vectors Market from the Noun Project
-  featured: true
+  featured: false
 - name: Education
   logo: /img/categories/education.svg
   logo_credit: Sergey Patutin from the Noun Project
@@ -41,7 +41,7 @@
   featured: false
 - name: Real Estate / Land Records
   logo: /img/categories/real-estate-land-records.svg
-  featured: true
+  featured: false
 - name: Transportation
   logo: /img/categories/transportation.svg
   logo_credit: Dmitry Baranovskiy from the Noun Project
