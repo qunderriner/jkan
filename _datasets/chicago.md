@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Poverty Measures  
+title: Poverty Measures - Chicago 
 organization: CHICAGO DATA PORTAL
 notes: These data could be compared with eviction rates to understand a fuller picture of the economic conditions in major cities in each state representing in the eviction data above.
 
