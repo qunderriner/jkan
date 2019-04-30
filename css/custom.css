@@ -11,9 +11,7 @@
 
 .btn,
 .btn-primary,
-.btn-lg, 
-.btn-sm,
-.btn-default {
+.btn-lg {
 	width: 40%;
 	margin-left: 30%;
 	margin-right: 30%;
